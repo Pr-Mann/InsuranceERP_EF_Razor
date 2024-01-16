@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceERP_EF_Razor", "InsuranceERP_EF_Razor\InsuranceERP_EF_Razor.csproj", "{9B06632A-F70C-4C60-BED2-DAE4C9C53C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B06632A-F70C-4C60-BED2-DAE4C9C53C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B06632A-F70C-4C60-BED2-DAE4C9C53C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B06632A-F70C-4C60-BED2-DAE4C9C53C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B06632A-F70C-4C60-BED2-DAE4C9C53C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F89F974-F45C-496E-85F5-7CC7C5A4B15C}
+	EndGlobalSection
+EndGlobal
