@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InsuranceERP_EF_Razor.props" />
+</Project>
