@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WEB\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor.csproj": {}
+    "C:\\Users\\Divyang\\Desktop\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor.csproj": {}
   },
   "projects": {
-    "D:\\WEB\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor.csproj": {
+    "C:\\Users\\Divyang\\Desktop\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WEB\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor.csproj",
+        "projectUniqueName": "C:\\Users\\Divyang\\Desktop\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor.csproj",
         "projectName": "InsuranceERP_EF_Razor",
-        "projectPath": "D:\\WEB\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor.csproj",
-        "packagesPath": "C:\\Users\\Priyank\\.nuget\\packages\\",
-        "outputPath": "D:\\WEB\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\obj\\",
+        "projectPath": "C:\\Users\\Divyang\\Desktop\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor.csproj",
+        "packagesPath": "C:\\Users\\Divyang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Divyang\\Desktop\\InsuranceERP_EF_Razor\\InsuranceERP_EF_Razor\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Priyank\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Divyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +39,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

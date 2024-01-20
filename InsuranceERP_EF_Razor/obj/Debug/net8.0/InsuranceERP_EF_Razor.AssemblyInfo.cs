@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsuranceERP_EF_Razor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299e9f06e66b0d164f1e3bee3ee4ade1ae7b5751")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f067563023cf90b03a51efbec18a6ccabb0cf261")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsuranceERP_EF_Razor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsuranceERP_EF_Razor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
